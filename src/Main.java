@@ -12,9 +12,10 @@ public class Main {
         coor.set(13,4);
         System.out.println(circle.toString());
     }
-    public  void Test12(){
+    public void Test12(){
 
-        System.out.println("Test Feature 2");
+        System.out.println("Test Feature 1");
+
 
     }
 }
