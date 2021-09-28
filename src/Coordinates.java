@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 /**
  * @Author(s): Dominik Mitterer
  * @Title: Coordinates
@@ -25,4 +27,16 @@ public class Coordinates {
                 ", y=" + y +
                 '}';
     }
+    public void Test12(){
+
+        System.out.println("Test Feature 2");
+
+
+    }
+
+
+
+
+
+
 }
