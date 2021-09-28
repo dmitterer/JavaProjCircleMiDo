@@ -25,5 +25,4 @@ public class Coordinates {
                 ", y=" + y +
                 '}';
     }
-
 }
